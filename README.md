@@ -41,3 +41,29 @@
 <img src="https://github.com/mlafeldt/schnubbel/raw/master/window.jpg">
 
 <img src="https://github.com/mlafeldt/schnubbel/raw/master/yin_yang.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/bulbber.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-agent.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-eat.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-funny.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-guard.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-on-the-snow.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-paper.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-shower.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-thinking.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat1.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat2.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/funny-cat-12.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/guy.jpg">
