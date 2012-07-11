@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/mlafeldt/schnubbel.png?branch=master)](http://travis-ci.org/mlafeldt/schnubbel)
+
 <img src="https://github.com/mlafeldt/schnubbel/raw/master/logo.jpg">
 
 <img src="https://github.com/mlafeldt/schnubbel/raw/master/hui.gif">
