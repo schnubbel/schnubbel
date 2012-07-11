@@ -1,74 +1,69 @@
-You there! Ogre.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/logo.jpg">
 
-  
-Aye.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/hui.gif">
 
-  
-By the order of Lord Farquaad
-I am authorized
-to place you both under arrest
-and transport you
-to a designated resettlement facility.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/code-refactoring.gif">
 
-  
-Oh, really? You and what army?
+<img src="http://imgs.xkcd.com/comics/laser_pointer.png">
 
-  
-Can I say something to you?
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/sniper.gif">
 
-  
-You was really, really something
-back there. Incredible.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/kitchen_ninja.jpg">
 
-  
-Are you talking to...
-...me?
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/door_ninja.jpg">
 
-  
-Yes, I was talking to you.
-You was really great back there.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/lights_out.gif">
 
-  
-Those guards, they thought they was
-all that. You showed up, and bam!
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/hidden.jpg">
 
-  
-Tripping over themselves
-like babes in the woods.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/real_ninja.jpg">
 
-  
-That really made me
-feel good to see that.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/imitate.jpg">
 
-  
-That's great. Really.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/ruler.jpg">
 
-  
-Man, it's good to be free.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/dryer.jpg">
 
-  
-Now, why don't you go celebrate
-your freedom with your own friends?
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/monitor.jpg">
 
-  
-Hm?
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/spoon.jpg">
 
-  
-But, uh
-I don't have any friends.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/drunks.jpg">
 
-  
-And I'm not going out there by myself.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/traveler.jpg">
 
-  
-Wait a minute. I got a great idea.
-I'll stick with you!
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/dj.jpg">
 
-  
-You a mean, green fighting machine.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/copy_cat.jpg">
 
-  
-Together we'll scare the spit
-out of anybody that crosses us.
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/box.jpg">
 
-<img src="https://github.com/mlafeldt/schnubbel/raw/master/waffles.jpg">
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/window.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/yin_yang.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/bulbber.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-agent.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-eat.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-funny.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-guard.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-on-the-snow.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-paper.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-shower.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat-thinking.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat1.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/cat2.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/funny-cat-12.jpg">
+
+<img src="https://github.com/mlafeldt/schnubbel/raw/master/guy.jpg">
